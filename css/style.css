@@ -325,7 +325,11 @@ color: purple
     font-family: 'Times New Roman', Times, serif;
 }
 
-
+.customer1,.customer2,.customer3,.customer4{
+    boarder-radius:15px;
+    box-shadow:2px 2px 2px 2px palevioletred;
+    border:1px solid gray;
+}
 
 
 
